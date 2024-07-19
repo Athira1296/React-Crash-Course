@@ -1,0 +1,34 @@
+{
+    "posts": [
+        {
+            "author": "Arya Stark",
+            "body": "The north remembers",
+            "id": "0.5816830791237539"
+        },
+        {
+            "body": "I am an engineer",
+            "author": "Surendran",
+            "id": "0.12517766120027374"
+        },
+        {
+            "body": "I love coding ;)",
+            "author": "Lulu",
+            "id": "0.4739854639052863"
+        },
+        {
+            "body": "I love dancing :)",
+            "author": "Chikku",
+            "id": "0.43291739203391755"
+        },
+        {
+            "body": "I am a marathon runner!",
+            "author": "Varun",
+            "id": "0.3384547682410286"
+        },
+        {
+            "body": "This course is hopefully very helpful to you!",
+            "author": "Athira",
+            "id": "post-1"
+        }
+    ]
+}
